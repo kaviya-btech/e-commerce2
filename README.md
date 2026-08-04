@@ -33,19 +33,19 @@ E-Commerce-Website/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](screenshots/home.png)
+![Home](home.png)
 
 ### 🛍️ Product Page
-![Product](screenshots/product.png)
+![Product](product.png)
 
 ### ⭐ Featured Products
-![Product 1](screenshots/product1.png)
+![Product 1](product1.png)
 
 ### 📊 Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### 🛒 Buy Now Page
-![Buy Now](screenshots/buynow.png)
+![Buy Now](buynow.png)
 
 ## 🎯 Skills Gained
 
